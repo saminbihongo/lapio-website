@@ -1,0 +1,17 @@
+.First {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+.Second {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    left: 250px;
+    position: absolute;
+}
+.Third {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
